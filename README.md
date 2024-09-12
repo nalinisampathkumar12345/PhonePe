@@ -1,4 +1,4 @@
-PhonePe Data Analysis Dashboard
+**PhonePe Data Analysis Dashboard**
 Overview
 This project is a Streamlit-based dashboard that allows users to analyze PhonePe transaction data. It connects to a MySQL database (PhonePeDB) and provides various visualization options for exploring transaction trends, state-wise data, user concentration, and more.
 
